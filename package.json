@@ -1,0 +1,23 @@
+{
+  "name": "travel-app-fakeapi",
+  "version": "1.0.0",
+  "description": "Fake REST API for Travel App",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksumov/travel-app-fakeapi.git"
+  },
+  "keywords": [],
+  "author": "Marat Maksumov",
+  "license": "AGPL",
+  "bugs": {
+    "url": "https://github.com/maksumov/travel-app-fakeapi/issues"
+  },
+  "homepage": "https://github.com/maksumov/travel-app-fakeapi#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
