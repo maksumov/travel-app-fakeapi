@@ -121,5 +121,41 @@
         "url": "https://youtube.me/121xcvgxdfgdfgf"
       }
     }
+  ],
+  "attractions": [
+    {
+      "id": "863949e4-0be7-4390-acd7-e24b4ddd6e72",
+      "name": {
+        "by": "Стоўнхендж",
+        "en": "Stonehenge",
+        "ru": "Стоунхендж"
+      },
+      "coutryId": "6e904621-4185-4357-8140-17198979f524",
+      "thumbnail": {
+        "url": "https://example.com/photo/stonehenge.png",
+        "alt": {
+          "by": "Стоўнхендж",
+          "en": "Stonehenge",
+          "ru": "Стоунхендж"
+        },
+        "width": 100,
+        "height": 100
+      },
+      "summary": {
+        "by": [
+          "Стоўнхендж (анг. Stonehenge, літар. «Каменны хендж») — занесенае ў спіс Сусветнай спадчыны каменнае мегалітычнае збудаванне (кромлех) на Солсберыйскай раўніне ў графстве Уілтшыр (Англія). Прыкладна за 130 км на паўднёвы захад ад Лондана."
+        ],
+        "en": [
+          "Stonehenge is a prehistoric monument on Salisbury Plain in Wiltshire, England, two miles (3 km) west of Amesbury. It consists of an outer ring of vertical Sarsen standing stones, each around 13 feet (4.0 m) high, seven feet (2.1 m) wide, and weighing around 25 tons, topped by connecting horizontal lintel stones. Inside is a ring of smaller bluestones. Inside these are free-standing trilithons, two bulkier vertical Sarsens joined by one lintel. The whole monument, now ruinous, is oriented towards the sunrise on the summer solstice. The stones are set within earthworks in the middle of the most dense complex of Neolithic and Bronze Age monuments in England, including several hundred tumuli (burial mounds).",
+          "Archaeologists believe it was constructed from 3000 BC to 2000 BC. The surrounding circular earth bank and ditch, which constitute the earliest phase of the monument, have been dated to about 3100 BC. Radiocarbon dating suggests that the first bluestones were raised between 2400 and 2200 BC, although they may have been at the site as early as 3000 BC.",
+          "One of the most famous landmarks in the United Kingdom, Stonehenge is regarded as a British cultural icon. It has been a legally protected Scheduled Ancient Monument since 1882, when legislation to protect historic monuments was first successfully introduced in Britain. The site and its surroundings were added to UNESCO's list of World Heritage Sites in 1986. Stonehenge is owned by the Crown and managed by English Heritage; the surrounding land is owned by the National Trust.",
+          "Stonehenge could have been a burial ground from its earliest beginnings. Deposits containing human bone date from as early as 3000 BC, when the ditch and bank were first dug, and continued for at least another 500 years."
+        ],
+        "ru": [
+          "Стоунхендж, Стонхендж (англ. Stonehenge [ˈstəʊnˌhendʒ]) — внесённое в список Всемирного наследия каменное мегалитическое сооружение (кромлех) в графстве Уилтшир (Англия). Находится примерно в 130 км к юго-западу от Лондона, примерно в 3,2 км к западу от Эймсбери и в 13 км к северу от Солсбери.",
+          "Один из самых знаменитых археологических памятников в мире, Стоунхендж состоит из кольцевых и подковообразных сооружений, построенных из больших менгиров. Он находится в центре самого плотного комплекса памятников неолита и бронзового века в Англии. Сам памятник и его окрестности были включены в список Всемирного наследия ЮНЕСКО в 1986 г. вместе с Эйвбери. Стоунхендж передан британской короной в управление «Английскому наследию», тогда как ближайшие окрестности принадлежат Национальному трасту."
+        ]
+      }
+    }
   ]
 }
