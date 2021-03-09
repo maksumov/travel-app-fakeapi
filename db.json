@@ -1,61 +1,125 @@
 {
-  "countries": {
-    "id": "6e904621-4185-4357-8140-17198979f524",
-    "name": {
-      "by": "Злучанае Каралеўства Вялікабрытаніі і Паўночнай Ірландыі",
-      "en": "United Kingdom of Great Britain and Northern Ireland",
-      "ru": "Соединённое Королевство Великобритании и Северной Ирландии"
-    },
-    "capital": {
+  "countries": [
+    {
+      "id": "6e904621-4185-4357-8140-17198979f524",
+      "iso": "uk",
       "name": {
-        "by": "Лондан",
-        "en": "London",
-        "ru": "Лондон"
-      },
-      "coords": [51.509865, -0.118092],
-      "timezone": {
-        "standard": "UTC+00",
-        "dst": {
-          "type": "northern",
-          "value": "UTC+01:00",
-          "start": "2021-03-28T01:00:00Z",
-          "end": "2021-10-31T01:00:00Z"
-        }
-      }
-    },
-    "currency": {
-      "iso": "GBP",
-      "name": {
-        "by": "Фунт стэрлінгаў",
-        "en": "Pound sterling",
-        "ru": "Фунт стерлингов"
-      },
-      "symbol": "£"
-    },
-    "thumbnail": {
-      "url": "https://example.com/photo/gb.png",
-      "alt": {
         "by": "Злучанае Каралеўства Вялікабрытаніі і Паўночнай Ірландыі",
         "en": "United Kingdom of Great Britain and Northern Ireland",
         "ru": "Соединённое Королевство Великобритании и Северной Ирландии"
       },
-      "width": 100,
-      "height": 100
+      "capital": {
+        "name": {
+          "by": "Лондан",
+          "en": "London",
+          "ru": "Лондон"
+        },
+        "coords": [51.509865, -0.118092],
+        "timezone": {
+          "standard": "UTC+00",
+          "dst": {
+            "type": "northern",
+            "value": "UTC+01",
+            "start": "2021-03-28T01:00:00Z",
+            "end": "2021-10-31T01:00:00Z"
+          }
+        }
+      },
+      "currency": {
+        "iso": "GBP",
+        "name": {
+          "by": "Фунт стэрлінгаў",
+          "en": "Pound sterling",
+          "ru": "Фунт стерлингов"
+        },
+        "symbol": "£"
+      },
+      "thumbnail": {
+        "url": "https://example.com/photo/gb.png",
+        "alt": {
+          "by": "Злучанае Каралеўства Вялікабрытаніі і Паўночнай Ірландыі",
+          "en": "United Kingdom of Great Britain and Northern Ireland",
+          "ru": "Соединённое Королевство Великобритании и Северной Ирландии"
+        },
+        "width": 100,
+        "height": 100
+      },
+      "summary": {
+        "by": [
+          "Вялі́кабрыта́нія (англ.: Great Britain), Злу́чанае Карале́ўства Вялі́кабрыта́ніі і Паўно́чнай Ірла́ндыі (англ.: United Kingdom of Great Britain and Northern Ireland) — астраўная дзяржава на паўночным захадзе Еўропы. Плошча 242,5 тыс.кв.км. Размешчана на востраве Вялікабрытанія, паўночным усходзе Ірландыі і шэрагу меншых астравоў і архіпелагаў. Мяжуе па сушы з Ірландыяй. Пралівам Ла-Манш аддзяляецца ад Францыі, з якой мае марскую мяжу. Геаграфічна адносіцца да рэгіёна Паўночнай Еўропы, таксама лічыцца часткай Заходняй Еўропы. Сталіца — горад Лондан — глабальны горад і фінансавы цэнтр. Афіцыйныя мовы: англійская (дэ-факта), ва Уэльсе — валійская."
+        ],
+        "en": [
+          "The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK or U.K.), or Britain, is a sovereign country in north-western Europe, off the north-­western coast of the European mainland. The United Kingdom includes the island of Great Britain, the north-­eastern part of the island of Ireland, and many smaller islands within the British Isles. Northern Ireland shares a land border with the Republic of Ireland. Otherwise, the United Kingdom is surrounded by the Atlantic Ocean, with the North Sea to the east, the English Channel to the south and the Celtic Sea to the south-west, giving it the 12th-longest coastline in the world. The Irish Sea separates Great Britain and Ireland. The total area of the United Kingdom is 94,000 square miles (240,000 km2)."
+        ],
+        "ru": [
+          "Великобрита́ния (русское название происходит от англ. Great Britain [ˌɡreɪt ˈbrɪtn]), или Соединённое Короле́вство (United Kingdom [jʊnaɪtɪd kɪŋdəm], сокращённо: UK), полная официальная форма — Соединённое Короле́вство Великобрита́нии и Се́верной Ирла́ндии (англ. The United Kingdom of Great Britain and Northern Ireland), — островное государство на северо-западе от континентальной Европы.",
+          "Единое Королевство Великобритания образовалось в 1707 году вследствие политического объединения королевств Шотландии и Англии; но ещё ранее, в 1603 году, король Шотландии Яков VI унаследовал престолы Англии и Ирландии в порядке личной унии (Яков I). В 1800 году Королевство Великобритания и Королевство Ирландия объединились, образовав Соединённое Королевство Великобритании и Ирландии, которое после отделения от него в 1922 году Ирландского Свободного государства стало именоваться Соединённым Королевством Великобритании и Северной Ирландии"
+        ]
+      },
+      "video": {
+        "url": "https://youtube.me/sdfsdfsdfsdfsdf"
+      }
     },
-    "summary": {
-      "by": [
-        "Вялі́кабрыта́нія (англ.: Great Britain), Злу́чанае Карале́ўства Вялі́кабрыта́ніі і Паўно́чнай Ірла́ндыі (англ.: United Kingdom of Great Britain and Northern Ireland) — астраўная дзяржава на паўночным захадзе Еўропы. Плошча 242,5 тыс.кв.км. Размешчана на востраве Вялікабрытанія, паўночным усходзе Ірландыі і шэрагу меншых астравоў і архіпелагаў. Мяжуе па сушы з Ірландыяй. Пралівам Ла-Манш аддзяляецца ад Францыі, з якой мае марскую мяжу. Геаграфічна адносіцца да рэгіёна Паўночнай Еўропы, таксама лічыцца часткай Заходняй Еўропы. Сталіца — горад Лондан — глабальны горад і фінансавы цэнтр. Афіцыйныя мовы: англійская (дэ-факта), ва Уэльсе — валійская."
-      ],
-      "en": [
-        "The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK or U.K.), or Britain, is a sovereign country in north-western Europe, off the north-­western coast of the European mainland. The United Kingdom includes the island of Great Britain, the north-­eastern part of the island of Ireland, and many smaller islands within the British Isles. Northern Ireland shares a land border with the Republic of Ireland. Otherwise, the United Kingdom is surrounded by the Atlantic Ocean, with the North Sea to the east, the English Channel to the south and the Celtic Sea to the south-west, giving it the 12th-longest coastline in the world. The Irish Sea separates Great Britain and Ireland. The total area of the United Kingdom is 94,000 square miles (240,000 km2)."
-      ],
-      "ru": [
-        "Великобрита́ния (русское название происходит от англ. Great Britain [ˌɡreɪt ˈbrɪtn]), или Соединённое Короле́вство (United Kingdom [jʊnaɪtɪd kɪŋdəm], сокращённо: UK), полная официальная форма — Соединённое Короле́вство Великобрита́нии и Се́верной Ирла́ндии (англ. The United Kingdom of Great Britain and Northern Ireland), — островное государство на северо-западе от континентальной Европы.",
-        "Единое Королевство Великобритания образовалось в 1707 году вследствие политического объединения королевств Шотландии и Англии; но ещё ранее, в 1603 году, король Шотландии Яков VI унаследовал престолы Англии и Ирландии в порядке личной унии (Яков I). В 1800 году Королевство Великобритания и Королевство Ирландия объединились, образовав Соединённое Королевство Великобритании и Ирландии, которое после отделения от него в 1922 году Ирландского Свободного государства стало именоваться Соединённым Королевством Великобритании и Северной Ирландии"
-      ]
-    },
-    "video": {
-      "url": "https://youtube.me/sdfsdfsdfsdfsdf"
+    {
+      "id": "b066da91-b840-4a47-af6d-f08010666722",
+      "iso": "fr",
+      "name": {
+        "by": "Францыя",
+        "en": "France",
+        "ru": "Франция"
+      },
+      "capital": {
+        "name": {
+          "by": "Парыж",
+          "en": "Paris",
+          "ru": "Париж"
+        },
+        "coords": [48.864716, 2.349014],
+        "timezone": {
+          "standard": "UTC+01",
+          "dst": {
+            "type": "northern",
+            "value": "UTC+02",
+            "start": "2021-03-28T01:00:00Z",
+            "end": "2021-10-31T01:00:00Z"
+          }
+        }
+      },
+      "currency": {
+        "iso": "EUR",
+        "name": {
+          "by": "Еўра",
+          "en": "Euro",
+          "ru": "Евро"
+        },
+        "symbol": "€"
+      },
+      "thumbnail": {
+        "url": "https://example.com/photo/france.png",
+        "alt": {
+          "by": "Францыя",
+          "en": "France",
+          "ru": "Франция"
+        },
+        "width": 100,
+        "height": 100
+      },
+      "summary": {
+        "by": [
+          "Фра́нцыя (фр.: France, МФА(фр.) : [fʁɑ̃s]), Францу́зская Рэспу́бліка (фр.: République française, МФА(фр.) : [ʁe.py.blik fʁɑ̃.sɛz]) — краіна ў Заходняй Еўропе, што ўключае ў сябе таксама некалькі заморскіх рэгіёнаў і тэрыторый. Метрапольная Францыя мяжуе з Бельгіяй, Люксембургам, Германіяй, Швейцарыяй, Італіяй і Манака на ўсходзе, Андорай і Іспаніяй на поўдні, і аддзеленая пралівам Ла-Манш ад Вялікабрытаніі на поўначы. Таксама ў Францыю ўваходзяць тэрыторыі, размешчаныя ў розных частках свету.",
+          "Францыя з’яўляецца ўнітарнай паўпрэзідэнцкай рэспублікай са сталіцай у Парыжы, найбуйнейшым горадзе краіны і галоўным культурным і эканамічным цэнтры. Падзяляецца на 18 рэгіёнаў, 5 з якіх адносяцца да заморскіх. Найбуйнейшая заморская тэрыторыя — Французская Гвіяна — знаходзіцца ў Паўднёвай Амерыцы."
+        ],
+        "en": [
+          "France (French: [fʁɑ̃s]), officially the French Republic (French: République française), is a country primarily located in Western Europe, consisting of metropolitan France and several overseas regions and territories. The metropolitan area of France extends from the Rhine to the Atlantic Ocean and from the Mediterranean Sea to the English Channel and the North Sea. The overseas territories include French Guiana in South America and several islands in the Atlantic, Pacific and Indian Oceans. France borders Belgium, Luxembourg and Germany to the northeast, Switzerland, Monaco and Italy to the east, Andorra and Spain to the south, as well as the Netherlands, Suriname and Brazil in the Americas. The country's eighteen integral regions (five of which are situated overseas) span a combined area of 643,801 km2 (248,573 sq mi) and a total population of 67.4 million (as of February 2021). France is a unitary semi-presidential republic with its capital in Paris, the country's largest city and main cultural and commercial centre. Other major urban areas include Lyon, Marseille, Toulouse, Bordeaux, Lille and Nice. France, including its overseas territories, has the most time zones of any country, with a total of twelve."
+        ],
+        "ru": [
+          "Фра́нция (фр. France, [fʁɑ̃s]), официальное название — Францу́зская Респу́блика (фр. République française, [ʁe.py.blik fʁɑ̃.sɛz]), — трансконтинентальное государство, включающее основную территорию в Западной Европе и ряд заморских регионов и территорий. Столица — Париж. Девиз Республики — «Свобода, равенство, братство», её принцип — правление народа, народом и для народа",
+          "Название страны происходит от этнонима древнегерманского племени франков. Большинство населения Франции имеет смешанное галло-романское происхождение и говорит на языке романской группы."
+        ]
+      },
+      "video": {
+        "url": "https://youtube.me/121xcvgxdfgdfgf"
+      }
     }
-  }
+  ]
 }
