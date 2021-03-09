@@ -156,6 +156,74 @@
           "Один из самых знаменитых археологических памятников в мире, Стоунхендж состоит из кольцевых и подковообразных сооружений, построенных из больших менгиров. Он находится в центре самого плотного комплекса памятников неолита и бронзового века в Англии. Сам памятник и его окрестности были включены в список Всемирного наследия ЮНЕСКО в 1986 г. вместе с Эйвбери. Стоунхендж передан британской короной в управление «Английскому наследию», тогда как ближайшие окрестности принадлежат Национальному трасту."
         ]
       }
+    },
+    {
+      "id": "03c755fa-0d2b-43e3-9e0f-a82a2b8f0196",
+      "name": {
+        "by": "Лонданскі Таўэр",
+        "en": "Tower of London",
+        "ru": "Лондонский Тауэр"
+      },
+      "coutryId": "6e904621-4185-4357-8140-17198979f524",
+      "thumbnail": {
+        "url": "https://example.com/photo/tower-of-london.png",
+        "alt": {
+          "by": "Лонданскі Таўэр",
+          "en": "Tower of London",
+          "ru": "Лондонский Тауэр"
+        },
+        "width": 100,
+        "height": 100
+      },
+      "summary": {
+        "by": [
+          "Та́ўэр (ад англ.: tower — вежа), Лонданскі Таўэр (Her Majesty's Royal Palace and Fortress, Tower of London) — замак-крэпасць ва ўсходняй частцы гістарычнага цэнтру Лондана, на паўночным беразе ракі Тэмзы. Адзін з найстарэйшых гістарычных будынкаў Вялікабрытаніі, старэйшая частка, г. зв. «Белая вежа», пабудавана пры Вільгельме Заваёўніку. Да XVII ст. адна з рэзідэнцый англійскіх манархаў, да 1820 году ў Таўэры размяшчалася галоўная дзяржаўная турма. Пазней ў Таўэры размяшчаўся арсенал і казармы. Сёння Таўэр — адначасова помнік гісторыі і музей (калекцыя зброі, каралеўскіх каштоўнасцей і інш.), уключаны ў спіс аб'ектаў сусветнай спадчыны ЮНЕСКА.",
+          "У свой час, у Таўэры было тайна забіта або пакарана смерцю шмат вядомых асоб, у т.л. Генрых VI, Эдуард V з братам Рычардам, Томас Мор, Томас Кромвель, жонкі Генрыха VIII — Ганна Балейн і Кацярына Говард, і інш."
+        ],
+        "en": [
+          "The Tower of London, officially Her Majesty's Royal Palace and Fortress of the Tower of London, is a historic castle on the north bank of the River Thames in central London. It lies within the London Borough of Tower Hamlets, which is separated from the eastern edge of the square mile of the City of London by the open space known as Tower Hill. It was founded towards the end of 1066 as part of the Norman Conquest. The White Tower, which gives the entire castle its name, was built by William the Conqueror in 1078 and was a resented symbol of oppression, inflicted upon London by the new ruling elite. The castle was also used as a prison from 1100 (Ranulf Flambard) until 1952 (Kray twins), although that was not its primary purpose. A grand palace early in its history, it served as a royal residence. As a whole, the Tower is a complex of several buildings set within two concentric rings of defensive walls and a moat. There were several phases of expansion, mainly under kings Richard I, Henry III, and Edward I in the 12th and 13th centuries. The general layout established by the late 13th century remains despite later activity on the site.",
+          "The Tower of London has played a prominent role in English history. It was besieged several times, and controlling it has been important to controlling the country. The Tower has served variously as an armoury, a treasury, a menagerie, the home of the Royal Mint, a public record office, and the home of the Crown Jewels of England. From the early 14th century until the reign of Charles II in the 17th century, a procession would be led from the Tower to Westminster Abbey on the coronation of a monarch. In the absence of the monarch, the Constable of the Tower is in charge of the castle. This was a powerful and trusted position in the medieval period. In the late 15th century, the castle was the prison of the Princes in the Tower. Under the Tudors, the Tower became used less as a royal residence, and despite attempts to refortify and repair the castle, its defences lagged behind developments to deal with artillery.",
+          "The zenith of the castle's use as a prison was the 16th and 17th centuries, when many figures who had fallen into disgrace, such as Elizabeth I before she became queen, Sir Walter Raleigh, and Elizabeth Throckmorton, were held within its walls. This use has led to the phrase \"sent to the Tower\". Despite its enduring reputation as a place of torture and death, popularised by 16th-century religious propagandists and 19th-century writers, only seven people were executed within the Tower before the World Wars of the 20th century. Executions were more commonly held on the notorious Tower Hill to the north of the castle, with 112 occurring there over a 400-year period. In the latter half of the 19th century, institutions such as the Royal Mint moved out of the castle to other locations, leaving many buildings empty. Anthony Salvin and John Taylor took the opportunity to restore the Tower to what was felt to be its medieval appearance, clearing out many of the vacant post-medieval structures.",
+          "In the First and Second World Wars, the Tower was again used as a prison and witnessed the executions of 12 men for espionage. After the Second World War, damage caused during the Blitz was repaired, and the castle reopened to the public. Today, the Tower of London is one of the country's most popular tourist attractions. Under the ceremonial charge of the Constable of the Tower, and operated by the Resident Governor of the Tower of London and Keeper of the Jewel House, the property is cared for by the charity Historic Royal Palaces and is protected as a World Heritage Site."
+        ],
+        "ru": [
+          "Та́уэр (с англ. — «башня, крепость»), Лондонский Тауэр (англ. Her Majesty's Royal Palace and Fortress, Tower of London) — крепость, стоящая на северном берегу Темзы, исторический центр Лондона, одно из старейших сооружений Англии и один из главных символов Великобритании, занимающий особое место в истории английской нации. Как писал герцог Эдинбургский в своей книге, посвященной 900-летию Тауэра, «за свою историю Лондонский Тауэр был крепостью, дворцом, хранилищем королевских драгоценностей, арсеналом, монетным двором, тюрьмой, обсерваторией, зоопарком, местом, привлекающим туристов»."
+        ]
+      }
+    },
+    {
+      "id": "6e069839-9894-4047-a3fb-94a14be6f70d",
+      "name": {
+        "by": "Рымскія бані у Бате",
+        "en": "The Roman Baths and Georgian City of Bath",
+        "ru": "Римские термы в Бате"
+      },
+      "coutryId": "",
+      "thumbnail": {
+        "url": "https://example.com/photo/bath-england.png",
+        "alt": {
+          "by": "Рымскія бані у Бате",
+          "en": "The Roman Baths and Georgian City of Bath",
+          "ru": "Римские термы в Бате"
+        },
+        "width": 100,
+        "height": 100
+      },
+      "summary": {
+        "by": [
+          "Бат (англ.: Bath, [ˈbɑːθ], лац.: Aquae Sulis, Aquae Calidae, Bathonia) — горад у цырыманіяльным графстве Сомерсет на паўднёвым захадзе Англіі, які знаходзіцца ў 156 км на захад ад Лондана і ў 21 км на паўднёвы ўсход ад Брыстала. Насельніцтва горада — 83,992 чалавек. Статус горада быў нададзены Бату каралевай Елізаветай I у 1590 годзе і стаў адміністрацыйна самастойнай адзінкай у 1889 годзе, што дало яму адміністрацыйную незалежнасць ад графства Сомерсет. Калі ў 1974 годзе было ўтворана графства Эйван, горад Бат увайшоў у яго склад. З 1996 года, калі графства Эйван было ліквідавана, Бат дагэтуль з'яўляецца галоўным цэнтрам унітарнай адміністрацыйнай адзінкі Бат і Паўночна-Усходні Сомерсет.",
+          "Упершыню Бат быў заснаваны рымлянамі ў 43 г. да н.э. як спа-курорт з лацінскім імем Aquae Sulis («воды Сулі́са»). Згодна з вуснай традыцыяй лічыцца, што Бат быў вядомы і раней. Рымляне пабудавалі рымскія бані і палац на памежных гарадскіх халмах у даліне ракі Эйван каля тэрмальных мінеральных крыніц, якія з'яўляецца адзінымі натуральна ўзнікаючымі тэрмальнымі крыніцамі ў Вялікабрытаніі[4]. Англійскі кароль Эдгар быў каранаваны ў бацкім абацтве ў 973 годзе[5]. Нашмат пазней, у Геаргіянскую эпоху, горад стаў папулярным спа-курортам, што прывяло да яго буйнога пашырэння. Шматлікія ўзоры геаргіянскай архітэктуры, пабудаванай адмысловым з бацкага каменя захаваліся і пагэтуль.",
+          "Бат быў унесены ў спіс Сусветнай спадчыны ў 1987 годзе. Горад мае шэраг тэатраў, музеяў і іншых культурных і спартыўных будынкаў, якія паспрыялі станаўленню гэтага горада, як асноўнага турыстычнага цэнтра, які мае больш за мільён сталых наведвальнікаў і 3.8 мільёна дзённых турыстаў штогод. Горад таксама мае два ўніверсітэты і некалькі школ і каледжаў. У Баце буйны сектар сферы паслуг, развіваюцца інфармацыйныя і камунікацыйныя тэхналогіі, разам з сектарам інтэлектуальнай эканомікі, якія забяспечваюць працаўладкаванасць насельніцтва Бата і прымежнай тэрыторыі."
+        ],
+        "en": [
+          "The Roman Baths are a well-preserved thermae in the city of Bath, Somerset, England. A temple was constructed on the site between 60-70CE in the first few decades of Roman Britain. Its presence led to the development of the small Roman urban settlement known as Aquae Sulis around the site. The Roman baths—designed for public bathing—were used until the end of Roman rule in Britain in the 5th Century CE. According to the Anglo-Saxon Chronicle, the original Roman baths were in ruins a century later. The area around the natural springs was redeveloped several times during the Early and Late Middle Ages.",
+          "The Roman Baths are preserved in four main features: the Sacred Spring, the Roman Temple, the Roman Bath House, and a museum which holds artefacts from Aquae Sulis. However, all buildings at street level date from the 19th century. It is a major tourist attraction in the UK, and together with the Grand Pump Room, receives more than 1.3 million visitors annually. Visitors can tour the baths and museum but cannot enter the water."
+        ],
+        "ru": [
+          "Бат (англ. Bath [ˈbɑːθ], лат. Aquae Sulis, Aquae Calidae, Bathonia) — город в Англии, местопребывание епископа и главный город графства Сомерсет, на реке Эйвон. С античности знаменит целебными источниками как бальнеологический курорт (собственно, и само название переводится с английского как «баня»). Памятники эпохи классицизма внесены в список Всемирного наследия. Родина батских булочек. Население — 94 782 человека.",
+          "Горячие источники, которым город обязан своим существованием, известны уже в 44 г., ещё до появления в этих местах римских легионов. Источников — 4, со средней температурой в 46 °C. Помогают в лечении подагры, ревматизма, паралича; воду пьют и используют для ванн и душей. Сезон продолжается с ноября до апреля. Средняя годовая температура 10 °C, выше, чем в большинстве английских городов. Лето умеренное, зима дождливая, но мягкая."
+        ]
+      }
     }
   ]
 }
