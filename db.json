@@ -225,5 +225,37 @@
         ]
       }
     }
+  ],
+  "users": [
+    {
+      "id": "444199d3-09ca-4e4b-8304-1d812b5f2583",
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "password": "************"
+    },
+    {
+      "id": "5010a099-6d7b-4b19-b6cc-a5bdfb99c6f6",
+      "name": "Ervin Howell",
+      "email": "Shanna@melissa.tv",
+      "password": "************"
+    },
+    {
+      "id": "0d81158f-563d-44f2-8f57-c44fbc2715ad",
+      "name": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "password": "************"
+    },
+    {
+      "id": "d033c70e-2269-4de6-94a1-e5f9ac73ac4f",
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "password": "************"
+    },
+    {
+      "id": "03c0ce13-6a03-4952-8ab4-338b50250e4e",
+      "name": "Chelsey Dietrich",
+      "email": "Lucio_Hettinger@annie.ca",
+      "password": "************"
+    }
   ]
 }
