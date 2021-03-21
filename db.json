@@ -1,0 +1,286 @@
+{
+  "countries": [
+    {
+      "id": "6e904621-4185-4357-8140-17198979f524",
+      "iso": "uk",
+      "name": {
+        "by": "Злучанае Каралеўства Вялікабрытаніі і Паўночнай Ірландыі",
+        "en": "United Kingdom of Great Britain and Northern Ireland",
+        "ru": "Соединённое Королевство Великобритании и Северной Ирландии"
+      },
+      "capital": {
+        "name": {
+          "by": "Лондан",
+          "en": "London",
+          "ru": "Лондон"
+        },
+        "coords": [51.509865, -0.118092],
+        "timezone": {
+          "standard": "UTC+00",
+          "dst": {
+            "type": "northern",
+            "value": "UTC+01",
+            "start": "2021-03-28T01:00:00Z",
+            "end": "2021-10-31T01:00:00Z"
+          }
+        }
+      },
+      "currency": {
+        "iso": "GBP",
+        "name": {
+          "by": "Фунт стэрлінгаў",
+          "en": "Pound sterling",
+          "ru": "Фунт стерлингов"
+        },
+        "symbol": "£"
+      },
+      "thumbnail": {
+        "url": "https://example.com/photo/gb.png",
+        "alt": {
+          "by": "Злучанае Каралеўства Вялікабрытаніі і Паўночнай Ірландыі",
+          "en": "United Kingdom of Great Britain and Northern Ireland",
+          "ru": "Соединённое Королевство Великобритании и Северной Ирландии"
+        },
+        "width": 100,
+        "height": 100
+      },
+      "summary": {
+        "by": [
+          "Вялі́кабрыта́нія (англ.: Great Britain), Злу́чанае Карале́ўства Вялі́кабрыта́ніі і Паўно́чнай Ірла́ндыі (англ.: United Kingdom of Great Britain and Northern Ireland) — астраўная дзяржава на паўночным захадзе Еўропы. Плошча 242,5 тыс.кв.км. Размешчана на востраве Вялікабрытанія, паўночным усходзе Ірландыі і шэрагу меншых астравоў і архіпелагаў. Мяжуе па сушы з Ірландыяй. Пралівам Ла-Манш аддзяляецца ад Францыі, з якой мае марскую мяжу. Геаграфічна адносіцца да рэгіёна Паўночнай Еўропы, таксама лічыцца часткай Заходняй Еўропы. Сталіца — горад Лондан — глабальны горад і фінансавы цэнтр. Афіцыйныя мовы: англійская (дэ-факта), ва Уэльсе — валійская."
+        ],
+        "en": [
+          "The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK or U.K.), or Britain, is a sovereign country in north-western Europe, off the north-­western coast of the European mainland. The United Kingdom includes the island of Great Britain, the north-­eastern part of the island of Ireland, and many smaller islands within the British Isles. Northern Ireland shares a land border with the Republic of Ireland. Otherwise, the United Kingdom is surrounded by the Atlantic Ocean, with the North Sea to the east, the English Channel to the south and the Celtic Sea to the south-west, giving it the 12th-longest coastline in the world. The Irish Sea separates Great Britain and Ireland. The total area of the United Kingdom is 94,000 square miles (240,000 km2)."
+        ],
+        "ru": [
+          "Великобрита́ния (русское название происходит от англ. Great Britain [ˌɡreɪt ˈbrɪtn]), или Соединённое Короле́вство (United Kingdom [jʊnaɪtɪd kɪŋdəm], сокращённо: UK), полная официальная форма — Соединённое Короле́вство Великобрита́нии и Се́верной Ирла́ндии (англ. The United Kingdom of Great Britain and Northern Ireland), — островное государство на северо-западе от континентальной Европы.",
+          "Единое Королевство Великобритания образовалось в 1707 году вследствие политического объединения королевств Шотландии и Англии; но ещё ранее, в 1603 году, король Шотландии Яков VI унаследовал престолы Англии и Ирландии в порядке личной унии (Яков I). В 1800 году Королевство Великобритания и Королевство Ирландия объединились, образовав Соединённое Королевство Великобритании и Ирландии, которое после отделения от него в 1922 году Ирландского Свободного государства стало именоваться Соединённым Королевством Великобритании и Северной Ирландии"
+        ]
+      },
+      "video": {
+        "url": "https://youtube.me/sdfsdfsdfsdfsdf"
+      }
+    },
+    {
+      "id": "b066da91-b840-4a47-af6d-f08010666722",
+      "iso": "fr",
+      "name": {
+        "by": "Францыя",
+        "en": "France",
+        "ru": "Франция"
+      },
+      "capital": {
+        "name": {
+          "by": "Парыж",
+          "en": "Paris",
+          "ru": "Париж"
+        },
+        "coords": [48.864716, 2.349014],
+        "timezone": {
+          "standard": "UTC+01",
+          "dst": {
+            "type": "northern",
+            "value": "UTC+02",
+            "start": "2021-03-28T01:00:00Z",
+            "end": "2021-10-31T01:00:00Z"
+          }
+        }
+      },
+      "currency": {
+        "iso": "EUR",
+        "name": {
+          "by": "Еўра",
+          "en": "Euro",
+          "ru": "Евро"
+        },
+        "symbol": "€"
+      },
+      "thumbnail": {
+        "url": "https://example.com/photo/france.png",
+        "alt": {
+          "by": "Францыя",
+          "en": "France",
+          "ru": "Франция"
+        },
+        "width": 100,
+        "height": 100
+      },
+      "summary": {
+        "by": [
+          "Фра́нцыя (фр.: France, МФА(фр.) : [fʁɑ̃s]), Францу́зская Рэспу́бліка (фр.: République française, МФА(фр.) : [ʁe.py.blik fʁɑ̃.sɛz]) — краіна ў Заходняй Еўропе, што ўключае ў сябе таксама некалькі заморскіх рэгіёнаў і тэрыторый. Метрапольная Францыя мяжуе з Бельгіяй, Люксембургам, Германіяй, Швейцарыяй, Італіяй і Манака на ўсходзе, Андорай і Іспаніяй на поўдні, і аддзеленая пралівам Ла-Манш ад Вялікабрытаніі на поўначы. Таксама ў Францыю ўваходзяць тэрыторыі, размешчаныя ў розных частках свету.",
+          "Францыя з’яўляецца ўнітарнай паўпрэзідэнцкай рэспублікай са сталіцай у Парыжы, найбуйнейшым горадзе краіны і галоўным культурным і эканамічным цэнтры. Падзяляецца на 18 рэгіёнаў, 5 з якіх адносяцца да заморскіх. Найбуйнейшая заморская тэрыторыя — Французская Гвіяна — знаходзіцца ў Паўднёвай Амерыцы."
+        ],
+        "en": [
+          "France (French: [fʁɑ̃s]), officially the French Republic (French: République française), is a country primarily located in Western Europe, consisting of metropolitan France and several overseas regions and territories. The metropolitan area of France extends from the Rhine to the Atlantic Ocean and from the Mediterranean Sea to the English Channel and the North Sea. The overseas territories include French Guiana in South America and several islands in the Atlantic, Pacific and Indian Oceans. France borders Belgium, Luxembourg and Germany to the northeast, Switzerland, Monaco and Italy to the east, Andorra and Spain to the south, as well as the Netherlands, Suriname and Brazil in the Americas. The country's eighteen integral regions (five of which are situated overseas) span a combined area of 643,801 km2 (248,573 sq mi) and a total population of 67.4 million (as of February 2021). France is a unitary semi-presidential republic with its capital in Paris, the country's largest city and main cultural and commercial centre. Other major urban areas include Lyon, Marseille, Toulouse, Bordeaux, Lille and Nice. France, including its overseas territories, has the most time zones of any country, with a total of twelve."
+        ],
+        "ru": [
+          "Фра́нция (фр. France, [fʁɑ̃s]), официальное название — Францу́зская Респу́блика (фр. République française, [ʁe.py.blik fʁɑ̃.sɛz]), — трансконтинентальное государство, включающее основную территорию в Западной Европе и ряд заморских регионов и территорий. Столица — Париж. Девиз Республики — «Свобода, равенство, братство», её принцип — правление народа, народом и для народа",
+          "Название страны происходит от этнонима древнегерманского племени франков. Большинство населения Франции имеет смешанное галло-романское происхождение и говорит на языке романской группы."
+        ]
+      },
+      "video": {
+        "url": "https://youtube.me/121xcvgxdfgdfgf"
+      }
+    }
+  ],
+  "attractions": [
+    {
+      "id": "863949e4-0be7-4390-acd7-e24b4ddd6e72",
+      "name": {
+        "by": "Стоўнхендж",
+        "en": "Stonehenge",
+        "ru": "Стоунхендж"
+      },
+      "coutryId": "6e904621-4185-4357-8140-17198979f524",
+      "thumbnail": {
+        "url": "https://example.com/photo/stonehenge.png",
+        "alt": {
+          "by": "Стоўнхендж",
+          "en": "Stonehenge",
+          "ru": "Стоунхендж"
+        },
+        "width": 100,
+        "height": 100
+      },
+      "summary": {
+        "by": [
+          "Стоўнхендж (анг. Stonehenge, літар. «Каменны хендж») — занесенае ў спіс Сусветнай спадчыны каменнае мегалітычнае збудаванне (кромлех) на Солсберыйскай раўніне ў графстве Уілтшыр (Англія). Прыкладна за 130 км на паўднёвы захад ад Лондана."
+        ],
+        "en": [
+          "Stonehenge is a prehistoric monument on Salisbury Plain in Wiltshire, England, two miles (3 km) west of Amesbury. It consists of an outer ring of vertical Sarsen standing stones, each around 13 feet (4.0 m) high, seven feet (2.1 m) wide, and weighing around 25 tons, topped by connecting horizontal lintel stones. Inside is a ring of smaller bluestones. Inside these are free-standing trilithons, two bulkier vertical Sarsens joined by one lintel. The whole monument, now ruinous, is oriented towards the sunrise on the summer solstice. The stones are set within earthworks in the middle of the most dense complex of Neolithic and Bronze Age monuments in England, including several hundred tumuli (burial mounds).",
+          "Archaeologists believe it was constructed from 3000 BC to 2000 BC. The surrounding circular earth bank and ditch, which constitute the earliest phase of the monument, have been dated to about 3100 BC. Radiocarbon dating suggests that the first bluestones were raised between 2400 and 2200 BC, although they may have been at the site as early as 3000 BC.",
+          "One of the most famous landmarks in the United Kingdom, Stonehenge is regarded as a British cultural icon. It has been a legally protected Scheduled Ancient Monument since 1882, when legislation to protect historic monuments was first successfully introduced in Britain. The site and its surroundings were added to UNESCO's list of World Heritage Sites in 1986. Stonehenge is owned by the Crown and managed by English Heritage; the surrounding land is owned by the National Trust.",
+          "Stonehenge could have been a burial ground from its earliest beginnings. Deposits containing human bone date from as early as 3000 BC, when the ditch and bank were first dug, and continued for at least another 500 years."
+        ],
+        "ru": [
+          "Стоунхендж, Стонхендж (англ. Stonehenge [ˈstəʊnˌhendʒ]) — внесённое в список Всемирного наследия каменное мегалитическое сооружение (кромлех) в графстве Уилтшир (Англия). Находится примерно в 130 км к юго-западу от Лондона, примерно в 3,2 км к западу от Эймсбери и в 13 км к северу от Солсбери.",
+          "Один из самых знаменитых археологических памятников в мире, Стоунхендж состоит из кольцевых и подковообразных сооружений, построенных из больших менгиров. Он находится в центре самого плотного комплекса памятников неолита и бронзового века в Англии. Сам памятник и его окрестности были включены в список Всемирного наследия ЮНЕСКО в 1986 г. вместе с Эйвбери. Стоунхендж передан британской короной в управление «Английскому наследию», тогда как ближайшие окрестности принадлежат Национальному трасту."
+        ]
+      }
+    },
+    {
+      "id": "03c755fa-0d2b-43e3-9e0f-a82a2b8f0196",
+      "name": {
+        "by": "Лонданскі Таўэр",
+        "en": "Tower of London",
+        "ru": "Лондонский Тауэр"
+      },
+      "coutryId": "6e904621-4185-4357-8140-17198979f524",
+      "thumbnail": {
+        "url": "https://example.com/photo/tower-of-london.png",
+        "alt": {
+          "by": "Лонданскі Таўэр",
+          "en": "Tower of London",
+          "ru": "Лондонский Тауэр"
+        },
+        "width": 100,
+        "height": 100
+      },
+      "summary": {
+        "by": [
+          "Та́ўэр (ад англ.: tower — вежа), Лонданскі Таўэр (Her Majesty's Royal Palace and Fortress, Tower of London) — замак-крэпасць ва ўсходняй частцы гістарычнага цэнтру Лондана, на паўночным беразе ракі Тэмзы. Адзін з найстарэйшых гістарычных будынкаў Вялікабрытаніі, старэйшая частка, г. зв. «Белая вежа», пабудавана пры Вільгельме Заваёўніку. Да XVII ст. адна з рэзідэнцый англійскіх манархаў, да 1820 году ў Таўэры размяшчалася галоўная дзяржаўная турма. Пазней ў Таўэры размяшчаўся арсенал і казармы. Сёння Таўэр — адначасова помнік гісторыі і музей (калекцыя зброі, каралеўскіх каштоўнасцей і інш.), уключаны ў спіс аб'ектаў сусветнай спадчыны ЮНЕСКА.",
+          "У свой час, у Таўэры было тайна забіта або пакарана смерцю шмат вядомых асоб, у т.л. Генрых VI, Эдуард V з братам Рычардам, Томас Мор, Томас Кромвель, жонкі Генрыха VIII — Ганна Балейн і Кацярына Говард, і інш."
+        ],
+        "en": [
+          "The Tower of London, officially Her Majesty's Royal Palace and Fortress of the Tower of London, is a historic castle on the north bank of the River Thames in central London. It lies within the London Borough of Tower Hamlets, which is separated from the eastern edge of the square mile of the City of London by the open space known as Tower Hill. It was founded towards the end of 1066 as part of the Norman Conquest. The White Tower, which gives the entire castle its name, was built by William the Conqueror in 1078 and was a resented symbol of oppression, inflicted upon London by the new ruling elite. The castle was also used as a prison from 1100 (Ranulf Flambard) until 1952 (Kray twins), although that was not its primary purpose. A grand palace early in its history, it served as a royal residence. As a whole, the Tower is a complex of several buildings set within two concentric rings of defensive walls and a moat. There were several phases of expansion, mainly under kings Richard I, Henry III, and Edward I in the 12th and 13th centuries. The general layout established by the late 13th century remains despite later activity on the site.",
+          "The Tower of London has played a prominent role in English history. It was besieged several times, and controlling it has been important to controlling the country. The Tower has served variously as an armoury, a treasury, a menagerie, the home of the Royal Mint, a public record office, and the home of the Crown Jewels of England. From the early 14th century until the reign of Charles II in the 17th century, a procession would be led from the Tower to Westminster Abbey on the coronation of a monarch. In the absence of the monarch, the Constable of the Tower is in charge of the castle. This was a powerful and trusted position in the medieval period. In the late 15th century, the castle was the prison of the Princes in the Tower. Under the Tudors, the Tower became used less as a royal residence, and despite attempts to refortify and repair the castle, its defences lagged behind developments to deal with artillery.",
+          "The zenith of the castle's use as a prison was the 16th and 17th centuries, when many figures who had fallen into disgrace, such as Elizabeth I before she became queen, Sir Walter Raleigh, and Elizabeth Throckmorton, were held within its walls. This use has led to the phrase \"sent to the Tower\". Despite its enduring reputation as a place of torture and death, popularised by 16th-century religious propagandists and 19th-century writers, only seven people were executed within the Tower before the World Wars of the 20th century. Executions were more commonly held on the notorious Tower Hill to the north of the castle, with 112 occurring there over a 400-year period. In the latter half of the 19th century, institutions such as the Royal Mint moved out of the castle to other locations, leaving many buildings empty. Anthony Salvin and John Taylor took the opportunity to restore the Tower to what was felt to be its medieval appearance, clearing out many of the vacant post-medieval structures.",
+          "In the First and Second World Wars, the Tower was again used as a prison and witnessed the executions of 12 men for espionage. After the Second World War, damage caused during the Blitz was repaired, and the castle reopened to the public. Today, the Tower of London is one of the country's most popular tourist attractions. Under the ceremonial charge of the Constable of the Tower, and operated by the Resident Governor of the Tower of London and Keeper of the Jewel House, the property is cared for by the charity Historic Royal Palaces and is protected as a World Heritage Site."
+        ],
+        "ru": [
+          "Та́уэр (с англ. — «башня, крепость»), Лондонский Тауэр (англ. Her Majesty's Royal Palace and Fortress, Tower of London) — крепость, стоящая на северном берегу Темзы, исторический центр Лондона, одно из старейших сооружений Англии и один из главных символов Великобритании, занимающий особое место в истории английской нации. Как писал герцог Эдинбургский в своей книге, посвященной 900-летию Тауэра, «за свою историю Лондонский Тауэр был крепостью, дворцом, хранилищем королевских драгоценностей, арсеналом, монетным двором, тюрьмой, обсерваторией, зоопарком, местом, привлекающим туристов»."
+        ]
+      }
+    },
+    {
+      "id": "6e069839-9894-4047-a3fb-94a14be6f70d",
+      "name": {
+        "by": "Рымскія бані у Бате",
+        "en": "The Roman Baths and Georgian City of Bath",
+        "ru": "Римские термы в Бате"
+      },
+      "coutryId": "",
+      "thumbnail": {
+        "url": "https://example.com/photo/bath-england.png",
+        "alt": {
+          "by": "Рымскія бані у Бате",
+          "en": "The Roman Baths and Georgian City of Bath",
+          "ru": "Римские термы в Бате"
+        },
+        "width": 100,
+        "height": 100
+      },
+      "summary": {
+        "by": [
+          "Бат (англ.: Bath, [ˈbɑːθ], лац.: Aquae Sulis, Aquae Calidae, Bathonia) — горад у цырыманіяльным графстве Сомерсет на паўднёвым захадзе Англіі, які знаходзіцца ў 156 км на захад ад Лондана і ў 21 км на паўднёвы ўсход ад Брыстала. Насельніцтва горада — 83,992 чалавек. Статус горада быў нададзены Бату каралевай Елізаветай I у 1590 годзе і стаў адміністрацыйна самастойнай адзінкай у 1889 годзе, што дало яму адміністрацыйную незалежнасць ад графства Сомерсет. Калі ў 1974 годзе было ўтворана графства Эйван, горад Бат увайшоў у яго склад. З 1996 года, калі графства Эйван было ліквідавана, Бат дагэтуль з'яўляецца галоўным цэнтрам унітарнай адміністрацыйнай адзінкі Бат і Паўночна-Усходні Сомерсет.",
+          "Упершыню Бат быў заснаваны рымлянамі ў 43 г. да н.э. як спа-курорт з лацінскім імем Aquae Sulis («воды Сулі́са»). Згодна з вуснай традыцыяй лічыцца, што Бат быў вядомы і раней. Рымляне пабудавалі рымскія бані і палац на памежных гарадскіх халмах у даліне ракі Эйван каля тэрмальных мінеральных крыніц, якія з'яўляецца адзінымі натуральна ўзнікаючымі тэрмальнымі крыніцамі ў Вялікабрытаніі[4]. Англійскі кароль Эдгар быў каранаваны ў бацкім абацтве ў 973 годзе[5]. Нашмат пазней, у Геаргіянскую эпоху, горад стаў папулярным спа-курортам, што прывяло да яго буйнога пашырэння. Шматлікія ўзоры геаргіянскай архітэктуры, пабудаванай адмысловым з бацкага каменя захаваліся і пагэтуль.",
+          "Бат быў унесены ў спіс Сусветнай спадчыны ў 1987 годзе. Горад мае шэраг тэатраў, музеяў і іншых культурных і спартыўных будынкаў, якія паспрыялі станаўленню гэтага горада, як асноўнага турыстычнага цэнтра, які мае больш за мільён сталых наведвальнікаў і 3.8 мільёна дзённых турыстаў штогод. Горад таксама мае два ўніверсітэты і некалькі школ і каледжаў. У Баце буйны сектар сферы паслуг, развіваюцца інфармацыйныя і камунікацыйныя тэхналогіі, разам з сектарам інтэлектуальнай эканомікі, якія забяспечваюць працаўладкаванасць насельніцтва Бата і прымежнай тэрыторыі."
+        ],
+        "en": [
+          "The Roman Baths are a well-preserved thermae in the city of Bath, Somerset, England. A temple was constructed on the site between 60-70CE in the first few decades of Roman Britain. Its presence led to the development of the small Roman urban settlement known as Aquae Sulis around the site. The Roman baths—designed for public bathing—were used until the end of Roman rule in Britain in the 5th Century CE. According to the Anglo-Saxon Chronicle, the original Roman baths were in ruins a century later. The area around the natural springs was redeveloped several times during the Early and Late Middle Ages.",
+          "The Roman Baths are preserved in four main features: the Sacred Spring, the Roman Temple, the Roman Bath House, and a museum which holds artefacts from Aquae Sulis. However, all buildings at street level date from the 19th century. It is a major tourist attraction in the UK, and together with the Grand Pump Room, receives more than 1.3 million visitors annually. Visitors can tour the baths and museum but cannot enter the water."
+        ],
+        "ru": [
+          "Бат (англ. Bath [ˈbɑːθ], лат. Aquae Sulis, Aquae Calidae, Bathonia) — город в Англии, местопребывание епископа и главный город графства Сомерсет, на реке Эйвон. С античности знаменит целебными источниками как бальнеологический курорт (собственно, и само название переводится с английского как «баня»). Памятники эпохи классицизма внесены в список Всемирного наследия. Родина батских булочек. Население — 94 782 человека.",
+          "Горячие источники, которым город обязан своим существованием, известны уже в 44 г., ещё до появления в этих местах римских легионов. Источников — 4, со средней температурой в 46 °C. Помогают в лечении подагры, ревматизма, паралича; воду пьют и используют для ванн и душей. Сезон продолжается с ноября до апреля. Средняя годовая температура 10 °C, выше, чем в большинстве английских городов. Лето умеренное, зима дождливая, но мягкая."
+        ]
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": "444199d3-09ca-4e4b-8304-1d812b5f2583",
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "password": "************",
+      "avatar": {
+        "url": "https://example.com/photo/user.png",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": "5010a099-6d7b-4b19-b6cc-a5bdfb99c6f6",
+      "name": "Ervin Howell",
+      "email": "Shanna@melissa.tv",
+      "password": "************",
+      "avatar": {
+        "url": "https://example.com/photo/user.png",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": "0d81158f-563d-44f2-8f57-c44fbc2715ad",
+      "name": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "password": "************",
+      "avatar": {
+        "url": "https://example.com/photo/user.png",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": "d033c70e-2269-4de6-94a1-e5f9ac73ac4f",
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "password": "************",
+      "avatar": {
+        "url": "https://example.com/photo/user.png",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": "03c0ce13-6a03-4952-8ab4-338b50250e4e",
+      "name": "Chelsey Dietrich",
+      "email": "Lucio_Hettinger@annie.ca",
+      "password": "************",
+      "avatar": {
+        "url": "https://example.com/photo/user.png",
+        "width": 100,
+        "height": 100
+      }
+    }
+  ]
+}
